@@ -1,4 +1,4 @@
-Client,State,Sex,Duration,CreditHistory,Purpose,Value,Investment,Job,InstallmentTime,MaritalState,Fiador,EesidenceSince,Age,OtherFinance,Housing,ExistingLoan,Profession,Dependents,SocioCompany,Foreign,Status
+Cliente,Estado,Sexo,Duracao,HistoricoCredito,Proposito,Valor,Investimento,Emprego,TempoParcelamento,EstadoCivil,Fiador,ResidenciaDesde,Idade,OutrosFinanciamentos,Habitacao,EmprestimoExistente,Profissao,Dependentes,SocioEmpresa,Estrangeiro,Status
 Adelina Buenaventura,RJ,M,2,Adelina Buenaventura,2,1,5951,2,3.0,2,1,3,2.0,22,3,1.0,1,4,1,0,0
 Adelino Gago,RJ,M,3,Adelino Gago,1,2,2096,2,4.0,2,4,3,3.0,49,3,1.0,1,3,2,0,0
 Adélio Lisboa,SE,M,4,Adélio Lisboa,2,3,7882,2,4.0,2,4,4,4.0,45,3,2.0,1,4,2,0,0
