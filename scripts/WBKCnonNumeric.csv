@@ -1,0 +1,251 @@
+Client,State,Sex,Duration,CreditHistory,Purpose,Value,Investment,Job,InstallmentTime,MaritalState,Fiador,EesidenceSince,Age,OtherFinance,Housing,ExistingLoan,Profession,Dependents,SocioCompany,Foreign,Status
+Adelina Buenaventura,RJ,M,2,Adelina Buenaventura,moveis,1,5951,>=7,3.0,maculino div/dep,co aplicante,3,2.0,22,alugada,1.0,altamente qualificado/empresario,4,1,0,0
+Adelino Gago,RJ,M,3,Adelino Gago,educacao,2,2096,>=7,4.0,maculino div/dep,sim,3,3.0,49,alugada,1.0,altamente qualificado/empresario,3,2,0,0
+Adélio Lisboa,SE,M,4,Adélio Lisboa,moveis,3,7882,>=7,4.0,maculino div/dep,sim,4,4.0,45,alugada,2.0,altamente qualificado/empresario,4,2,0,0
+Adérito Bahía,MA,M,5,Adérito Bahía,veiculo novo,4,4870,>=7,3.0,masculino cas/viu,sim,3,4.0,53,alugada,2.0,desempregado,4,2,0,0
+Adolfo Patrício,PE,M,6,Adolfo Patrício,moveis,2,9055,<1,3.0,maculino div/dep,sim,3,4.0,35,alugada,2.0,altamente qualificado/empresario,3,2,1,0
+Adriana Guedelha,RO,F,7,Adriana Guedelha,moveis,3,2835,1<=X<4,2.0,masculino cas/viu,sim,3,4.0,53,alugada,1.0,altamente qualificado/empresario,4,1,0,0
+Aida Dorneles,RN,F,9,Aida Dorneles,moveis,1,3059,4<=X<7,4.0,maculino div/dep,co requerente,3,4.0,61,alugada,1.0,altamente qualificado/empresario,3,1,0,0
+Alarico Quinterno,AC,M,11,Alarico Quinterno,moveis,4,1295,>=7,1.0,masculino cas/viu,co aplicante,3,1.0,25,alugada,3.0,altamente qualificado/empresario,4,1,0,0
+Alberto Cezimbra,AM,M,13,Alberto Cezimbra,moveis,1,1567,>=7,3.0,feminino div/dep/cas,co aplicante,3,1.0,22,alugada,1.0,altamente qualificado/empresario,4,1,1,0
+Alberto Monsanto,RN,M,14,Alberto Monsanto,educacao,4,1199,>=7,2.0,masculino solteiro,sim,3,4.0,60,alugada,1.0,desempregado,3,1,0,0
+Albino Canela,AC,M,16,Albino Canela,moveis,1,1282,Desempregado,3.0,masculino solteiro,co aplicante,3,2.0,32,alugada,1.0,altamente qualificado/empresario,3,1,0,0
+Alceste Varanda,RR,F,17,Alceste Varanda,educacao,1,2424,<1,2.0,masculino solteiro,sim,3,4.0,53,alugada,1.0,desempregado,4,1,0,0
+Alcides Carvalhais,RO,M,18,Alcides Carvalhais,veiculo usado,6,8072,<1,1.0,maculino div/dep,sim,3,3.0,25,propria,1.0,nao qualificado,4,1,0,0
+Aldo Martins,GO,M,19,Aldo Martins,moveis,5,12579,>=7,2.0,masculino solteiro,co aplicante,3,2.0,44,alugada,2.0,altamente qualificado/empresario,1,1,1,0
+Alexandra Tabares,MG,F,20,Alexandra Tabares,moveis,1,3430,1<=X<4,2.0,masculino cas/viu,sim,3,2.0,31,alugada,1.0,altamente qualificado/empresario,4,2,1,0
+Alfredo Cotrim,SC,M,21,Alfredo Cotrim,educacao,4,2134,>=7,3.0,masculino solteiro,sim,3,4.0,48,alugada,1.0,nao qualificado,4,1,1,0
+Almeno Figueira,SC,M,22,Almeno Figueira,moveis,1,2647,1<=X<4,3.0,maculino div/dep,sim,3,3.0,44,alugada,3.0,altamente qualificado/empresario,4,2,0,0
+Alvito Peralta,AM,M,23,Alvito Peralta,educacao,4,2241,>=7,1.0,feminino div/dep/cas,sim,3,3.0,48,alugada,3.0,desempregado,3,2,0,1
+Amadeu Martinho,RN,M,24,Amadeu Martinho,educacao,5,1804,Desempregado,1.0,masculino cas/viu,sim,3,4.0,44,alugada,1.0,altamente qualificado/empresario,4,1,0,0
+Amélia Estévez,PE,F,25,Amélia Estévez,educacao,3,2069,<1,3.0,maculino div/dep,nao,3,1.0,26,alugada,1.0,desempregado,4,1,0,1
+Ana Homem,RN,F,26,Ana Homem,moveis,3,1374,>=7,3.0,feminino div/dep/cas,sim,3,2.0,36,propria,1.0,altamente qualificado/empresario,3,1,1,0
+Ana Peseiro,PA,F,27,Ana Peseiro,veiculo usado,1,426,>=7,2.0,masculino solteiro,nao,3,4.0,39,alugada,1.0,altamente qualificado/empresario,3,1,0,0
+Anacleto Garrau,TO,M,28,Anacleto Garrau,abrir negocio,1,409,4<=X<7,3.0,masculino cas/viu,co aplicante,3,3.0,42,alugada,3.0,desempregado,4,1,0,0
+Anacleto Guterres,PI,M,29,Anacleto Guterres,moveis,1,2415,>=7,3.0,masculino cas/viu,sim,4,2.0,34,alugada,1.0,altamente qualificado/empresario,4,1,0,0
+Andreia Carvalhal,SP,F,30,Andreia Carvalhal,veiculo novo,6,6836,>=7,2.0,masculino cas/viu,sim,3,4.0,63,alugada,1.0,desempregado,4,1,1,0
+Aníbal Bastos,CE,M,31,Aníbal Bastos,moveis,6,1913,4<=X<7,1.0,masculino cas/viu,nao,3,3.0,36,propria,1.0,altamente qualificado/empresario,4,1,1,0
+Anita Beserra,PE,F,32,Anita Beserra,moveis,3,4020,>=7,3.0,maculino div/dep,sim,3,2.0,27,de graca,1.0,altamente qualificado/empresario,4,1,0,0
+Anna Beça,AP,F,33,Anna Beça,moveis,4,5866,Desempregado,3.0,maculino div/dep,sim,3,2.0,30,alugada,1.0,desempregado,4,1,1,0
+Anna Carvajal,RS,F,34,Anna Carvajal,educacao,6,1264,<1,2.0,masculino solteiro,sim,3,4.0,57,alugada,3.0,altamente qualificado/empresario,3,1,0,0
+Anselmo Dinis,PA,M,36,Anselmo Dinis,educacao,1,4746,>=7,1.0,masculino solteiro,sim,3,2.0,25,alugada,1.0,desempregado,3,1,0,0
+Antão Corte-Real,ES,M,37,Antão Corte-Real,educacao,2,6110,>=7,3.0,feminino div/dep/cas,sim,3,3.0,31,propria,2.0,altamente qualificado/empresario,4,1,1,0
+Antero Milheiro,AP,M,38,Antero Milheiro,moveis,1,2100,>=7,3.0,masculino solteiro,sim,2,2.0,37,de graca,1.0,altamente qualificado/empresario,4,1,0,0
+Antónia Canhão,SC,F,39,Antónia Canhão,moveis,7,1225,>=7,3.0,maculino div/dep,sim,3,2.0,37,alugada,1.0,altamente qualificado/empresario,4,1,1,0
+Antônio Leiria,AL,M,40,Antônio Leiria,moveis,1,458,>=7,3.0,masculino solteiro,sim,3,3.0,24,alugada,1.0,altamente qualificado/empresario,4,1,0,0
+António Lousado,RS,M,41,António Lousado,moveis,1,2333,1<=X<4,2.0,masculino solteiro,sim,3,2.0,30,propria,1.0,altamente qualificado/empresario,1,1,0,0
+Antônio Sobral,AC,M,42,Antônio Sobral,moveis,1,1158,1<=X<4,3.0,masculino cas/viu,co requerente,3,1.0,26,alugada,1.0,altamente qualificado/empresario,4,1,1,0
+Apuã Ourique,AL,M,43,Apuã Ourique,veiculo novo,8,6204,>=7,3.0,maculino div/dep,sim,3,4.0,44,alugada,1.0,altamente qualificado/empresario,3,2,1,0
+Arachane Matos,MA,F,44,Arachane Matos,educacao,5,6187,Desempregado,4.0,feminino div/dep/cas,nao,3,4.0,24,alugada,3.0,desempregado,4,1,0,0
+Arcidres Murici,TO,M,46,Arcidres Murici,educacao,4,1393,>=7,1.0,masculino solteiro,co aplicante,3,4.0,35,alugada,1.0,desempregado,1,1,0,0
+Armindo Castilhos,RR,M,47,Armindo Castilhos,moveis,1,2299,1<=X<4,2.0,masculino solteiro,sim,3,4.0,39,alugada,1.0,altamente qualificado/empresario,4,1,0,0
+Armindo Moreira,ES,M,48,Armindo Moreira,moveis,5,1352,1<=X<4,5.0,feminino div/dep/cas,co aplicante,3,2.0,23,alugada,3.0,altamente qualificado/empresario,2,1,1,0
+Artur Macedo,SE,M,49,Artur Macedo,educacao,4,7228,>=7,3.0,feminino div/dep/cas,sim,3,4.0,39,alugada,1.0,desempregado,3,1,0,0
+Artur Peña,RJ,M,50,Artur Peña,moveis,1,2073,Desempregado,3.0,masculino solteiro,co aplicante,2,2.0,28,alugada,1.0,altamente qualificado/empresario,4,1,0,0
+Aurélio Barrios,PI,M,51,Aurélio Barrios,veiculo novo,3,2333,<1,1.0,masculino solteiro,sim,3,2.0,29,propria,1.0,altamente qualificado/empresario,3,1,0,0
+Bárbara Magalhães,MG,F,52,Bárbara Magalhães,veiculo novo,5,5965,>=7,2.0,feminino div/dep/cas,sim,3,2.0,30,alugada,1.0,desempregado,1,1,1,0
+Bartolomeu Vila-Chã,TO,M,53,Bartolomeu Vila-Chã,moveis,1,1262,>=7,3.0,masculino cas/viu,sim,3,2.0,25,alugada,1.0,altamente qualificado/empresario,4,1,0,0
+Basilio Soares,AC,M,54,Basilio Soares,moveis,5,3378,<1,3.0,maculino div/dep,sim,3,1.0,31,alugada,1.0,altamente qualificado/empresario,4,1,1,0
+Belmira Colaço,RJ,F,55,Belmira Colaço,veiculo novo,4,2225,>=7,2.0,masculino solteiro,sim,3,4.0,57,propria,2.0,desempregado,4,1,1,0
+Belmiro Marroquim,SC,M,57,Belmiro Marroquim,moveis,1,6468,<1,5.0,maculino div/dep,sim,3,1.0,52,alugada,1.0,altamente qualificado/empresario,1,1,1,0
+Bento Quintão,SP,M,58,Bento Quintão,educacao,1,9566,>=7,3.0,maculino div/dep,co aplicante,3,2.0,31,de graca,1.0,desempregado,4,1,0,0
+Berengária Iglesias,BA,F,59,Berengária Iglesias,moveis,4,1961,>=7,2.0,masculino cas/viu,co aplicante,3,2.0,23,alugada,1.0,altamente qualificado/empresario,1,1,0,0
+Bernardete Águeda,TO,F,60,Bernardete Águeda,educacao,3,6229,>=7,1.0,masculino solteiro,co aplicante,2,4.0,23,alugada,3.0,desempregado,3,1,1,0
+Bernardete Querino,PI,F,61,Bernardete Querino,moveis,6,1391,>=7,3.0,maculino div/dep,nao,3,1.0,27,propria,1.0,altamente qualificado/empresario,4,1,1,0
+Bernardete Tavera,ES,F,62,Bernardete Tavera,educacao,1,1537,<1,2.0,masculino solteiro,sim,4,4.0,50,alugada,1.0,desempregado,4,1,1,0
+Bráulio Junquera,PB,M,63,Bráulio Junquera,veiculo usado,6,1953,>=7,2.0,masculino solteiro,sim,3,4.0,61,alugada,2.0,altamente qualificado/empresario,1,1,1,0
+Brenda Serralheiro,PA,F,64,Brenda Serralheiro,veiculo usado,6,14421,>=7,3.0,maculino div/dep,sim,3,2.0,25,alugada,1.0,altamente qualificado/empresario,4,1,1,0
+Brígida Gusmão,DF,F,65,Brígida Gusmão,moveis,1,3181,>=7,1.0,masculino solteiro,co aplicante,3,4.0,26,alugada,1.0,altamente qualificado/empresario,4,1,1,0
+Brites Morales,SC,F,66,Brites Morales,moveis,8,5190,<1,2.0,masculino solteiro,sim,3,4.0,48,alugada,1.0,qualificado,4,2,1,0
+Bruno Perdigão,MS,M,67,Bruno Perdigão,moveis,1,2171,>=7,1.0,maculino div/dep,co aplicante,3,2.0,29,propria,1.0,altamente qualificado/empresario,4,1,0,0
+Bukake Núñez,SC,F,68,Bukake Núñez,moveis,4,1007,4<=X<7,3.0,masculino solteiro,nao,3,1.0,22,alugada,1.0,altamente qualificado/empresario,4,1,0,0
+Caím Queiroga,PA,M,70,Caím Queiroga,moveis,1,2394,<1,3.0,masculino solteiro,co aplicante,3,4.0,25,alugada,1.0,altamente qualificado/empresario,4,1,0,0
+Calisto Britto,RN,M,35,Calisto Britto,moveis,3,1474,>=7,1.0,masculino solteiro,co aplicante,3,2.0,33,propria,1.0,altamente qualificado/empresario,1,1,1,0
+Cândida Silvestre,MG,F,8,Cândida Silvestre,moveis,5,6948,>=7,3.0,maculino div/dep,sim,3,2.0,35,alugada,1.0,altamente qualificado/empresario,1,1,1,0
+Cândido Sousa do Prado,PR,M,12,Cândido Sousa do Prado,moveis,6,4308,>=7,1.0,masculino cas/viu,co aplicante,3,4.0,24,alugada,1.0,altamente qualificado/empresario,4,1,0,0
+Capitolina Ruela,PI,F,1,Capitolina Ruela,reforma,1,1169,<1,3.0,masculino solteiro,sim,3,4.0,67,alugada,1.0,desempregado,4,1,1,0
+Capitolina Valadares,GO,F,69,Capitolina Valadares,moveis,2,1819,>=7,3.0,masculino solteiro,sim,3,4.0,37,de graca,2.0,altamente qualificado/empresario,999,1,1,0
+Carla Briones,AC,F,10,Carla Briones,reforma,4,5234,>=7,5.0,masculino solteiro,nao,3,2.0,28,alugada,1.0,desempregado,1,1,0,0
+Carlos Murici,MG,M,71,Carlos Murici,moveis,5,8133,>=7,3.0,feminino div/dep/cas,co aplicante,3,2.0,30,propria,1.0,altamente qualificado/empresario,4,1,0,0
+Carmem Reino,CE,F,72,Carmem Reino,educacao,1,730,<1,2.0,masculino solteiro,sim,3,2.0,46,alugada,3.0,desempregado,3,1,1,0
+Carminda Alcaide,RO,F,73,Carminda Alcaide,educacao,9,1164,>=7,2.0,masculino cas/viu,sim,3,4.0,51,propria,2.0,desempregado,1,2,1,0
+Carminda Dias,AM,F,74,Carminda Dias,educacao,6,5954,>=7,4.0,maculino div/dep,co aplicante,3,1.0,41,propria,1.0,desempregado,3,1,0,0
+Cássia Guerra,MG,F,76,Cássia Guerra,educacao,5,1526,>=7,2.0,masculino solteiro,sim,3,4.0,66,alugada,2.0,desempregado,1,1,0,0
+Cássia Queiroz,AM,F,77,Cássia Queiroz,moveis,1,3965,>=7,1.0,masculino solteiro,sim,3,3.0,34,alugada,1.0,altamente qualificado/empresario,4,1,0,0
+Cássio Bettencourt,BA,M,79,Cássio Bettencourt,veiculo usado,5,9436,<1,3.0,maculino div/dep,sim,3,2.0,39,alugada,1.0,altamente qualificado/empresario,3,2,0,0
+Catarina Bairros,PA,F,80,Catarina Bairros,moveis,3,3832,>=7,1.0,maculino div/dep,nao,3,1.0,22,alugada,1.0,altamente qualificado/empresario,4,1,0,0
+Catarina Montero,PI,F,81,Catarina Montero,moveis,1,5943,<1,1.0,feminino div/dep/cas,co aplicante,3,1.0,44,alugada,1.0,desempregado,4,1,1,0
+Cauê Cotrim,PE,M,82,Cauê Cotrim,moveis,1,1213,1<=X<4,2.0,masculino solteiro,sim,3,3.0,47,de graca,1.0,altamente qualificado/empresario,4,1,1,0
+Cauê Parahyba,PA,M,83,Cauê Parahyba,moveis,6,1568,Desempregado,3.0,masculino cas/viu,co aplicante,3,4.0,24,alugada,3.0,altamente qualificado/empresario,3,1,0,0
+Cecília Carlos,AP,F,84,Cecília Carlos,moveis,9,1755,>=7,2.0,masculino solteiro,co aplicante,4,4.0,58,alugada,1.0,altamente qualificado/empresario,3,1,1,0
+Celestino Pereira,RS,M,85,Celestino Pereira,moveis,1,2315,>=7,2.0,masculino cas/viu,sim,3,4.0,52,alugada,1.0,altamente qualificado/empresario,3,1,0,0
+Célia Meireles,CE,F,86,Célia Meireles,educacao,6,1412,>=7,3.0,masculino solteiro,co aplicante,4,2.0,29,alugada,1.0,desempregado,1,1,1,0
+Celina Vale,AL,F,87,Celina Vale,educacao,3,1295,>=7,1.0,masculino solteiro,co aplicante,3,1.0,27,alugada,1.0,desempregado,4,1,0,0
+Cesário Raminhos,RR,M,88,Cesário Raminhos,moveis,2,12612,Desempregado,3.0,feminino div/dep/cas,sim,3,4.0,47,alugada,2.0,altamente qualificado/empresario,4,2,1,0
+Cid Pardo,AL,M,89,Cid Pardo,moveis,4,2249,Desempregado,4.0,masculino solteiro,sim,3,3.0,30,alugada,1.0,altamente qualificado/empresario,1,2,1,0
+Cidália Miera,SE,F,90,Cidália Miera,veiculo usado,8,1108,>=7,4.0,masculino solteiro,sim,3,3.0,28,alugada,1.0,desempregado,4,1,0,0
+Cidália Ornelas,RS,F,91,Cidália Ornelas,educacao,1,618,>=7,2.0,masculino solteiro,sim,3,4.0,56,alugada,1.0,altamente qualificado/empresario,4,1,0,0
+Cláudio Cotegipe,MT,M,92,Cláudio Cotegipe,educacao,5,1409,>=7,2.0,masculino solteiro,sim,3,3.0,54,alugada,1.0,altamente qualificado/empresario,4,1,0,0
+Cláudio Jorge,TO,M,93,Cláudio Jorge,educacao,1,797,<1,2.0,masculino solteiro,co aplicante,3,3.0,33,propria,1.0,altamente qualificado/empresario,3,2,0,0
+Cláudio Lopes,BA,M,94,Cláudio Lopes,educacao,3,3617,<1,2.0,masculino solteiro,sim,2,4.0,20,alugada,3.0,desempregado,4,1,0,0
+Clotilde Carvalhoso,BA,F,96,Clotilde Carvalhoso,veiculo usado,6,15945,>=7,1.0,masculino cas/viu,sim,3,4.0,58,alugada,3.0,altamente qualificado/empresario,4,1,1,0
+Clóvis Pamplona,PB,M,97,Clóvis Pamplona,educacao,2,2012,<1,4.0,masculino solteiro,co aplicante,3,2.0,61,alugada,1.0,altamente qualificado/empresario,4,1,0,0
+Constança Alcaide,GO,M,98,Constança Alcaide,moveis,6,2622,Desempregado,3.0,masculino solteiro,sim,3,4.0,34,alugada,1.0,altamente qualificado/empresario,4,1,0,0
+Constantino Pedroso,AC,M,99,Constantino Pedroso,educacao,1,2337,>=7,2.0,masculino solteiro,sim,3,4.0,36,alugada,1.0,altamente qualificado/empresario,4,1,0,0
+Corina Dâmaso,CE,F,100,Corina Dâmaso,veiculo novo,5,7057,<1,4.0,masculino cas/viu,sim,3,4.0,36,propria,3.0,desempregado,1,2,1,0
+Cosme Ipanema,PI,M,101,Cosme Ipanema,moveis,4,1469,Desempregado,2.0,masculino solteiro,nao,3,4.0,41,alugada,3.0,altamente qualificado/empresario,3,1,0,0
+Cosme Lira,PR,M,102,Cosme Lira,moveis,1,2323,>=7,4.0,masculino solteiro,sim,3,4.0,24,alugada,3.0,altamente qualificado/empresario,4,1,0,0
+Cosme Zambujal,BA,M,103,Cosme Zambujal,veiculo novo,1,932,>=7,3.0,masculino cas/viu,co aplicante,3,2.0,24,alugada,1.0,altamente qualificado/empresario,4,1,0,0
+Crispim Cordero,SC,M,104,Crispim Cordero,educacao,3,1919,>=7,4.0,masculino solteiro,sim,3,3.0,35,alugada,3.0,altamente qualificado/empresario,4,1,1,0
+Crispim Macena,AP,M,105,Crispim Macena,moveis,5,2445,<1,1.0,maculino div/dep,nao,3,4.0,26,alugada,3.0,altamente qualificado/empresario,4,1,1,0
+Cristiana Campello,RN,F,106,Cristiana Campello,educacao,9,11938,>=7,3.0,maculino div/dep,sim,1,3.0,39,alugada,1.0,desempregado,1,2,1,0
+Custódio Gonçalves,DF,M,107,Custódio Gonçalves,abrir negocio,4,6458,>=7,2.0,maculino div/dep,sim,3,4.0,39,propria,1.0,desempregado,1,2,1,0
+Custódio Rolim,ES,M,108,Custódio Rolim,moveis,4,6078,>=7,4.0,maculino div/dep,sim,3,2.0,32,alugada,1.0,altamente qualificado/empresario,4,1,0,0
+David Brás,RJ,M,109,David Brás,moveis,3,7721,<1,1.0,feminino div/dep/cas,co aplicante,3,2.0,30,alugada,1.0,altamente qualificado/empresario,4,1,1,1
+David Carvalhais,RJ,M,110,David Carvalhais,moveis,6,1410,1<=X<4,2.0,feminino div/dep/cas,nao,3,2.0,35,alugada,1.0,altamente qualificado/empresario,4,1,1,0
+Davide Alcántara,MA,M,111,Davide Alcántara,veiculo novo,6,1449,Desempregado,2.0,feminino div/dep/cas,co requerente,3,2.0,31,propria,1.0,desempregado,4,2,0,0
+Davide Fraga,SC,M,112,Davide Fraga,moveis,2,392,>=7,1.0,masculino solteiro,co aplicante,3,4.0,23,alugada,3.0,altamente qualificado/empresario,4,1,1,0
+Deise Farias,AM,F,113,Deise Farias,moveis,4,6260,>=7,4.0,masculino cas/viu,sim,3,3.0,28,alugada,3.0,altamente qualificado/empresario,3,1,0,0
+Deise Laureano,PI,F,114,Deise Laureano,educacao,4,7855,>=7,3.0,masculino solteiro,co aplicante,3,2.0,25,de graca,1.0,desempregado,4,1,1,0
+Deise Meneses,DF,F,115,Deise Meneses,moveis,1,1680,1<=X<4,2.0,masculino cas/viu,nao,3,1.0,35,alugada,1.0,altamente qualificado/empresario,4,1,0,0
+Délia Chousa,PB,F,116,Délia Chousa,educacao,1,3578,<1,2.0,masculino solteiro,sim,3,1.0,47,alugada,1.0,altamente qualificado/empresario,4,1,1,0
+Délio Paranhos,BA,M,117,Délio Paranhos,moveis,1,7174,<1,4.0,masculino solteiro,co aplicante,3,3.0,30,alugada,1.0,altamente qualificado/empresario,1,1,1,0
+Deolinda Castelbranco,RO,F,118,Deolinda Castelbranco,educacao,3,2132,<1,1.0,maculino div/dep,co aplicante,2,3.0,27,alugada,3.0,desempregado,4,1,0,1
+Deolinda Castella,RJ,F,119,Deolinda Castella,educacao,3,4281,1<=X<4,3.0,feminino div/dep/cas,co aplicante,3,4.0,23,alugada,1.0,desempregado,4,1,0,0
+Derli Lozada,RJ,F,120,Derli Lozada,educacao,4,2366,1<=X<4,4.0,masculino cas/viu,co requerente,3,3.0,36,alugada,1.0,altamente qualificado/empresario,1,1,1,0
+Diana Baptista,AM,F,121,Diana Baptista,moveis,1,1835,>=7,3.0,masculino cas/viu,co aplicante,3,2.0,25,alugada,1.0,desempregado,4,1,1,0
+Dinarte Mangueira,DF,F,122,Dinarte Mangueira,educacao,5,3868,>=7,2.0,masculino solteiro,co aplicante,3,2.0,41,alugada,3.0,desempregado,1,1,1,0
+Dinarte Marino,MS,F,123,Dinarte Marino,moveis,3,1768,>=7,3.0,masculino cas/viu,sim,3,2.0,24,alugada,3.0,altamente qualificado/empresario,3,1,0,0
+Dinarte Tabalipa,RS,F,124,Dinarte Tabalipa,educacao,4,781,>=7,2.0,masculino solteiro,sim,3,4.0,63,alugada,2.0,desempregado,4,1,1,0
+Dinarte Tabares,RR,F,125,Dinarte Tabares,moveis,3,1924,<1,1.0,masculino solteiro,co aplicante,3,3.0,27,alugada,3.0,altamente qualificado/empresario,4,1,0,0
+Diodete Carijó,PB,F,126,Diodete Carijó,educacao,4,2121,>=7,3.0,masculino solteiro,sim,3,2.0,30,alugada,1.0,desempregado,4,1,0,0
+Diodete Queiroga,GO,F,127,Diodete Queiroga,moveis,1,701,>=7,3.0,masculino solteiro,nao,3,2.0,40,alugada,1.0,altamente qualificado/empresario,3,1,0,0
+Diogo Simón,BA,M,128,Diogo Simón,moveis,8,639,>=7,3.0,masculino solteiro,sim,3,2.0,30,alugada,1.0,altamente qualificado/empresario,4,1,0,0
+Dionísio Saltão,PR,M,129,Dionísio Saltão,educacao,5,1860,>=7,5.0,masculino solteiro,sim,3,2.0,34,alugada,1.0,desempregado,1,1,1,0
+Dora Galvão,MT,F,130,Dora Galvão,educacao,4,3499,>=7,3.0,masculino cas/viu,co aplicante,2,2.0,29,alugada,1.0,desempregado,4,1,0,0
+Dora Rocha,DF,F,131,Dora Rocha,moveis,4,8487,<1,4.0,feminino div/dep/cas,co aplicante,3,2.0,24,alugada,1.0,altamente qualificado/empresario,4,1,0,0
+Doroteia Quintanilla,RR,F,132,Doroteia Quintanilla,veiculo novo,2,6887,>=7,3.0,masculino solteiro,sim,3,3.0,29,de graca,1.0,altamente qualificado/empresario,4,1,1,0
+Duarte Sampaio,RJ,M,133,Duarte Sampaio,moveis,3,2708,>=7,1.0,maculino div/dep,sim,3,3.0,27,propria,1.0,desempregado,3,1,0,0
+Dulce Prado,AC,F,134,Dulce Prado,moveis,3,1984,>=7,3.0,masculino solteiro,sim,3,4.0,47,propria,2.0,desempregado,4,1,0,0
+Dulce Tomé,CE,F,135,Dulce Tomé,moveis,1,10144,Desempregado,4.0,maculino div/dep,co aplicante,3,4.0,21,alugada,1.0,altamente qualificado/empresario,4,1,1,0
+Eduarda Borba,MA,F,136,Eduarda Borba,educacao,1,1240,<1,2.0,masculino solteiro,co aplicante,3,2.0,38,alugada,1.0,desempregado,4,1,1,0
+Eduarda Madureira,DF,F,137,Eduarda Madureira,veiculo novo,5,8613,4<=X<7,3.0,maculino div/dep,sim,3,2.0,27,alugada,1.0,desempregado,4,1,0,0
+Eládio Froes,AM,M,138,Eládio Froes,moveis,1,766,1<=X<4,3.0,masculino solteiro,sim,3,3.0,66,alugada,1.0,altamente qualificado/empresario,3,1,0,0
+Eloi Meneses,CE,M,139,Eloi Meneses,educacao,1,2728,<1,4.0,masculino solteiro,sim,4,2.0,35,propria,1.0,nao qualificado,4,1,1,0
+Eloi Pereira,PA,M,140,Eloi Pereira,moveis,1,1881,>=7,3.0,maculino div/dep,co aplicante,3,2.0,44,alugada,3.0,altamente qualificado/empresario,3,1,1,0
+Eloi Vasques,RN,M,78,Eloi Vasques,veiculo novo,1,4771,>=7,3.0,maculino div/dep,sim,3,4.0,51,alugada,1.0,altamente qualificado/empresario,4,1,0,0
+Elsa Alencar,RJ,F,141,Elsa Alencar,moveis,4,709,4<=X<7,1.0,maculino div/dep,nao,3,2.0,27,alugada,1.0,altamente qualificado/empresario,2,1,0,1
+Elsa Barreto,MA,F,142,Elsa Barreto,moveis,1,4795,>=7,1.0,masculino solteiro,co aplicante,3,1.0,30,alugada,1.0,altamente qualificado/empresario,1,1,1,0
+Elvira Açores,SC,F,143,Elvira Açores,moveis,1,3416,>=7,3.0,masculino cas/viu,sim,3,2.0,27,alugada,1.0,altamente qualificado/empresario,1,1,0,0
+Ema Nieves,GO,F,144,Ema Nieves,moveis,3,2462,>=7,3.0,maculino div/dep,sim,3,2.0,22,alugada,1.0,altamente qualificado/empresario,4,1,0,0
+Emiliana Villalobos,RO,F,146,Emiliana Villalobos,abrir negocio,6,3566,Desempregado,4.0,masculino solteiro,sim,3,2.0,30,alugada,1.0,altamente qualificado/empresario,4,1,0,0
+Epaminondas Sousa de Arronches,MS,M,147,Epaminondas Sousa de Arronches,educacao,4,860,>=7,2.0,feminino div/dep/cas,co aplicante,3,4.0,39,alugada,1.0,desempregado,4,1,1,0
+Ermelinda Casquero,AM,F,148,Ermelinda Casquero,educacao,4,682,Desempregado,4.0,masculino solteiro,co aplicante,3,3.0,51,alugada,1.0,desempregado,4,1,1,0
+Estefânia Cyrne,RO,F,149,Estefânia Cyrne,educacao,3,5371,>=7,3.0,masculino cas/viu,sim,4,2.0,28,alugada,1.0,desempregado,4,1,0,0
+Estela Mattos,PI,F,150,Estela Mattos,educacao,1,1582,4<=X<7,2.0,masculino solteiro,sim,3,4.0,46,alugada,1.0,desempregado,4,1,0,0
+Ester Castanho,AC,F,151,Ester Castanho,moveis,1,1346,Desempregado,2.0,maculino div/dep,sim,3,4.0,42,propria,2.0,altamente qualificado/empresario,4,2,1,0
+Ester Dantas,SP,F,152,Ester Dantas,moveis,1,1924,>=7,3.0,feminino div/dep/cas,sim,3,4.0,38,alugada,1.0,altamente qualificado/empresario,4,1,1,1
+Estêvão Simão,DF,M,153,Estêvão Simão,moveis,1,5848,>=7,3.0,masculino solteiro,sim,3,1.0,24,alugada,1.0,altamente qualificado/empresario,4,1,0,0
+Eusébio Bairros,SP,M,154,Eusébio Bairros,educacao,5,7758,4<=X<7,2.0,maculino div/dep,co aplicante,3,4.0,29,alugada,3.0,altamente qualificado/empresario,4,1,0,0
+Eusébio Mata,PI,M,155,Eusébio Mata,veiculo novo,6,6967,Desempregado,4.0,masculino solteiro,sim,3,4.0,36,alugada,3.0,altamente qualificado/empresario,1,1,1,0
+Eusébio Pacheco,TO,M,156,Eusébio Pacheco,moveis,3,1282,>=7,3.0,maculino div/dep,co aplicante,3,4.0,20,alugada,3.0,altamente qualificado/empresario,4,1,0,0
+Eusébio Salomão,AC,M,157,Eusébio Salomão,educacao,8,1288,Desempregado,2.0,masculino cas/viu,sim,4,4.0,48,alugada,1.0,desempregado,4,2,0,1
+Evaristo Bahía,AC,M,158,Evaristo Bahía,abrir negocio,10,339,>=7,2.0,masculino solteiro,nao,3,1.0,45,propria,1.0,altamente qualificado/empresario,3,1,0,0
+Fabiano Bethancout,PB,M,159,Fabiano Bethancout,moveis,4,3512,Desempregado,4.0,maculino div/dep,sim,3,3.0,38,propria,1.0,desempregado,4,1,1,0
+Fabrício Varella,AM,M,160,Fabrício Varella,educacao,1,1898,<1,3.0,feminino div/dep/cas,sim,3,2.0,34,alugada,1.0,desempregado,3,2,0,0
+Fabrício Vidal,AL,M,161,Fabrício Vidal,educacao,1,2872,Desempregado,2.0,masculino cas/viu,sim,3,4.0,36,alugada,1.0,altamente qualificado/empresario,4,2,1,0
+Faustino Maranhão,PI,M,162,Faustino Maranhão,educacao,4,1055,>=7,1.0,masculino solteiro,co aplicante,3,1.0,30,alugada,1.0,desempregado,4,1,0,0
+Fausto Miranda,AP,M,163,Fausto Miranda,moveis,7,1262,1<=X<4,4.0,masculino solteiro,sim,3,3.0,36,alugada,1.0,desempregado,4,1,1,0
+Fausto Montenegro,SE,M,164,Fausto Montenegro,moveis,4,7308,>=7,5.0,maculino div/dep,sim,3,4.0,70,propria,2.0,altamente qualificado/empresario,1,1,1,0
+Feliciana Silvera,AC,F,165,Feliciana Silvera,moveis,4,909,1<=X<4,2.0,masculino solteiro,sim,3,4.0,36,alugada,1.0,altamente qualificado/empresario,4,1,0,0
+Feliciano Franca,PA,M,166,Feliciano Franca,moveis,3,2978,1<=X<4,3.0,feminino div/dep/cas,sim,3,2.0,32,alugada,1.0,altamente qualificado/empresario,4,1,1,0
+Felicidade Aldea,SE,F,167,Felicidade Aldea,moveis,3,1131,>=7,5.0,masculino solteiro,co aplicante,3,2.0,33,alugada,1.0,altamente qualificado/empresario,4,1,0,0
+Filipa Mattozo,MA,F,168,Filipa Mattozo,moveis,3,1577,4<=X<7,1.0,masculino solteiro,co aplicante,3,1.0,20,alugada,1.0,altamente qualificado/empresario,4,1,0,0
+Filipe Lamego,AL,M,170,Filipe Lamego,educacao,6,1935,>=7,2.0,masculino solteiro,co requerente,3,4.0,31,alugada,1.0,desempregado,4,1,1,0
+Firmina Carrasco,TO,F,171,Firmina Carrasco,veiculo usado,4,950,>=7,2.0,masculino solteiro,sim,3,3.0,33,alugada,3.0,desempregado,4,2,0,0
+Firmino Galván,MA,M,172,Firmino Galván,moveis,3,763,>=7,3.0,masculino solteiro,co aplicante,3,1.0,26,alugada,1.0,altamente qualificado/empresario,4,1,1,0
+Firmino Meireles,AM,M,173,Firmino Meireles,veiculo novo,3,2064,>=7,5.0,masculino cas/viu,co aplicante,3,2.0,34,alugada,1.0,altamente qualificado/empresario,1,1,1,0
+Firmino Puentes,PB,M,175,Firmino Puentes,veiculo novo,2,3414,>=7,1.0,maculino div/dep,sim,3,1.0,26,alugada,1.0,desempregado,4,1,0,0
+Flamínia Miera,MT,F,176,Flamínia Miera,abrir negocio,5,7485,<1,5.0,masculino solteiro,co aplicante,3,1.0,53,propria,1.0,altamente qualificado/empresario,1,1,1,0
+Flávia Camacho,BA,F,177,Flávia Camacho,moveis,3,2577,>=7,3.0,maculino div/dep,co requerente,3,1.0,42,alugada,1.0,altamente qualificado/empresario,4,1,0,0
+Flávia Campos,RR,F,178,Flávia Campos,educacao,1,338,1<=X<4,2.0,masculino solteiro,sim,3,4.0,52,alugada,1.0,desempregado,4,1,0,0
+Flor Ginjeira,ES,M,179,Flor Ginjeira,moveis,1,1963,>=7,4.0,masculino solteiro,sim,3,2.0,31,alugada,3.0,desempregado,1,2,1,0
+Flor Vilanova,CE,M,180,Flor Vilanova,educacao,4,571,>=7,2.0,masculino solteiro,sim,3,4.0,65,alugada,1.0,desempregado,4,1,0,0
+Florêncio Lameiras,PR,M,181,Florêncio Lameiras,veiculo novo,6,9572,>=7,1.0,feminino div/dep/cas,co requerente,3,1.0,28,alugada,1.0,desempregado,4,1,0,0
+Florêncio Vieira,PA,M,182,Florêncio Vieira,veiculo novo,6,4455,>=7,3.0,maculino div/dep,co requerente,3,2.0,30,de graca,1.0,desempregado,1,1,1,0
+Floriano Orriça,AP,M,183,Floriano Orriça,abrir negocio,4,1647,<1,3.0,masculino solteiro,sim,3,2.0,40,alugada,1.0,desempregado,3,2,0,0
+Floriano Siebra,MS,M,184,Floriano Siebra,educacao,3,3777,4<=X<7,3.0,masculino solteiro,sim,3,4.0,50,alugada,1.0,altamente qualificado/empresario,4,1,1,0
+Florinda Assunção,PI,F,185,Florinda Assunção,educacao,4,884,>=7,2.0,masculino solteiro,sim,3,4.0,36,propria,1.0,altamente qualificado/empresario,4,2,1,0
+Francisca Ramallo,RJ,F,186,Francisca Ramallo,educacao,1,1360,>=7,3.0,masculino solteiro,sim,3,2.0,31,alugada,1.0,desempregado,4,1,0,0
+Francisca Teodoro,SE,F,187,Francisca Teodoro,abrir negocio,5,5129,>=7,2.0,maculino div/dep,co aplicante,3,4.0,74,propria,2.0,altamente qualificado/empresario,1,2,1,0
+Francisco Medina,PA,M,188,Francisco Medina,educacao,4,1175,>=7,5.0,maculino div/dep,sim,3,3.0,68,alugada,2.0,nao qualificado,2,1,1,0
+Galindo Bettencourt,RN,M,189,Galindo Bettencourt,moveis,1,674,Desempregado,4.0,masculino solteiro,nao,3,1.0,20,alugada,1.0,altamente qualificado/empresario,4,1,0,0
+Garibaldo Oleiro,RO,M,190,Garibaldo Oleiro,veiculo usado,3,3244,>=7,3.0,feminino div/dep/cas,co aplicante,3,4.0,33,propria,1.0,desempregado,4,1,1,0
+Gaudêncio Ipiranga,RR,M,191,Gaudêncio Ipiranga,moveis,6,4591,4<=X<7,3.0,maculino div/dep,sim,3,3.0,54,alugada,1.0,nao qualificado,1,1,1,0
+Germana Conde,AM,F,192,Germana Conde,veiculo usado,6,3844,Desempregado,4.0,masculino solteiro,sim,3,4.0,34,alugada,2.0,altamente qualificado/empresario,3,2,0,0
+Gertrudes Hidalgo,PA,F,193,Gertrudes Hidalgo,moveis,6,3915,>=7,3.0,masculino solteiro,sim,3,2.0,36,alugada,1.0,altamente qualificado/empresario,4,2,1,0
+Gertrudes Infante,RS,F,194,Gertrudes Infante,moveis,1,2108,>=7,4.0,maculino div/dep,nao,3,2.0,29,alugada,3.0,altamente qualificado/empresario,4,1,0,0
+Gertrudes Rabello,SC,F,195,Gertrudes Rabello,moveis,1,3031,Desempregado,3.0,masculino solteiro,sim,4,4.0,21,alugada,3.0,altamente qualificado/empresario,4,1,0,0
+Gilberto Moutinho,PB,M,196,Gilberto Moutinho,educacao,2,1501,>=7,2.0,maculino div/dep,co aplicante,3,3.0,34,alugada,1.0,desempregado,1,1,1,0
+Gilda Parente,RR,F,197,Gilda Parente,educacao,1,1382,>=7,3.0,feminino div/dep/cas,co aplicante,3,1.0,28,alugada,1.0,desempregado,4,1,1,0
+Ginéculo Luz,RJ,M,198,Ginéculo Luz,moveis,3,951,Desempregado,1.0,masculino solteiro,co aplicante,3,4.0,27,propria,3.0,qualificado,4,1,0,0
+Gisela Bahia,SP,F,201,Gisela Bahia,educacao,2,936,1<=X<4,2.0,masculino solteiro,sim,3,2.0,52,alugada,1.0,desempregado,4,1,1,0
+Gisela Candeias,SC,F,202,Gisela Candeias,moveis,4,1168,>=7,3.0,masculino solteiro,nao,3,3.0,27,alugada,1.0,altamente qualificado/empresario,3,1,0,0
+Gláuber Guedella,RS,M,203,Gláuber Guedella,veiculo novo,6,5117,>=7,4.0,masculino cas/viu,sim,3,4.0,26,alugada,1.0,desempregado,4,1,0,0
+Gláucia Canela,RO,F,204,Gláucia Canela,moveis,10,902,>=7,4.0,masculino solteiro,nao,3,4.0,21,alugada,3.0,altamente qualificado/empresario,4,1,0,0
+Godinho ou Godim Fogaça,RN,M,205,Godinho ou Godim Fogaça,educacao,4,1495,>=7,2.0,masculino solteiro,sim,3,1.0,38,alugada,1.0,desempregado,3,2,0,0
+Godinho ou Godim Jácome,RN,M,206,Godinho ou Godim Jácome,educacao,5,10623,>=7,2.0,masculino cas/viu,sim,3,4.0,38,alugada,2.0,nao qualificado,1,2,1,0
+Godofredo Mascareñas,SP,M,207,Godofredo Mascareñas,educacao,3,1935,>=7,2.0,masculino solteiro,sim,3,4.0,43,alugada,1.0,nao qualificado,4,1,1,0
+Godofredo Quiroga,BA,M,208,Godofredo Quiroga,educacao,7,1424,>=7,4.0,masculino solteiro,sim,3,3.0,26,alugada,1.0,altamente qualificado/empresario,4,1,0,0
+Gomes Hurtado,AC,M,209,Gomes Hurtado,moveis,6,6568,>=7,3.0,maculino div/dep,nao,3,2.0,21,de graca,1.0,altamente qualificado/empresario,3,1,0,0
+Gonçalo Figueiró,PI,M,210,Gonçalo Figueiró,moveis,5,1413,4<=X<7,4.0,masculino cas/viu,sim,3,2.0,55,alugada,1.0,altamente qualificado/empresario,4,1,0,1
+Graça Tabosa,RN,F,169,Graça Tabosa,reforma,3,3972,>=7,4.0,maculino div/dep,co aplicante,3,4.0,25,alugada,3.0,altamente qualificado/empresario,4,1,1,0
+Greice Lameirinhas,PI,F,145,Greice Lameirinhas,educacao,3,2288,>=7,3.0,masculino solteiro,co aplicante,3,4.0,23,alugada,1.0,altamente qualificado/empresario,4,1,1,0
+Guadalupe Rodrigues,SC,F,174,Guadalupe Rodrigues,moveis,1,1414,>=7,3.0,masculino solteiro,sim,4,2.0,33,alugada,1.0,altamente qualificado/empresario,999,1,0,1
+Guadalupe Telinhos,AL,F,211,Guadalupe Telinhos,educacao,1,3074,<1,3.0,feminino div/dep/cas,sim,3,2.0,33,alugada,1.0,desempregado,4,2,0,0
+Guaraci Imbassaí,PB,F,212,Guaraci Imbassaí,moveis,1,3835,<1,2.0,maculino div/dep,co aplicante,3,4.0,45,alugada,1.0,altamente qualificado/empresario,3,1,1,0
+Gueda Cartaxo,MS,F,213,Gueda Cartaxo,veiculo usado,6,5293,>=7,5.0,maculino div/dep,sim,3,4.0,50,de graca,1.0,desempregado,4,1,1,0
+Gueda Laureano,BA,F,214,Gueda Laureano,veiculo novo,6,1908,>=7,2.0,masculino solteiro,sim,3,4.0,66,alugada,1.0,altamente qualificado/empresario,1,1,1,0
+Guida Beiriz,AP,F,215,Guida Beiriz,educacao,1,3342,<1,2.0,masculino solteiro,sim,3,2.0,51,alugada,1.0,altamente qualificado/empresario,4,1,1,0
+Guilhermina Hurtado,PA,F,216,Guilhermina Hurtado,educacao,10,932,<1,4.0,feminino div/dep/cas,co aplicante,3,3.0,39,alugada,1.0,desempregado,3,1,0,0
+Guilhermina Vilaça,BA,F,217,Guilhermina Vilaça,veiculo usado,6,3104,>=7,4.0,masculino cas/viu,sim,3,1.0,31,propria,1.0,altamente qualificado/empresario,4,1,1,0
+Hedviges Lessa,MG,F,218,Hedviges Lessa,moveis,1,3913,>=7,3.0,maculino div/dep,sim,3,2.0,23,alugada,1.0,altamente qualificado/empresario,4,1,1,0
+Hélder Brión,PB,M,219,Hélder Brión,moveis,3,3021,>=7,3.0,maculino div/dep,co requerente,3,2.0,24,alugada,3.0,altamente qualificado/empresario,3,1,0,0
+Hélder Valentín,AL,M,220,Hélder Valentín,moveis,4,1364,>=7,3.0,maculino div/dep,co aplicante,3,4.0,64,alugada,1.0,altamente qualificado/empresario,4,1,1,0
+Heloísa Cayubi,MS,F,221,Heloísa Cayubi,moveis,1,625,>=7,1.0,masculino solteiro,nao,4,1.0,26,propria,1.0,altamente qualificado/empresario,3,1,0,0
+Herberto Castro,MA,M,222,Herberto Castro,moveis,2,1200,<1,3.0,masculino solteiro,co aplicante,3,4.0,23,propria,3.0,altamente qualificado/empresario,4,1,1,0
+Herberto Pari,BA,M,223,Herberto Pari,moveis,1,707,>=7,3.0,masculino solteiro,sim,3,2.0,30,propria,1.0,desempregado,4,1,0,0
+Herculano Viveiros,RN,M,224,Herculano Viveiros,veiculo novo,6,2978,<1,3.0,masculino solteiro,sim,3,4.0,32,alugada,1.0,desempregado,4,2,1,0
+Hermano Diegues,ES,M,225,Hermano Diegues,moveis,5,4657,>=7,3.0,masculino cas/viu,sim,3,2.0,30,alugada,1.0,altamente qualificado/empresario,4,1,1,0
+Hermígio Cezar,SP,M,226,Hermígio Cezar,veiculo usado,8,2613,>=7,3.0,masculino solteiro,sim,3,2.0,27,alugada,1.0,desempregado,4,1,0,0
+Hermígio Villaverde,MA,M,227,Hermígio Villaverde,moveis,1,10961,4<=X<7,4.0,feminino div/dep/cas,sim,2,2.0,27,propria,1.0,desempregado,4,1,1,0
+Honorina Camarinho,PR,F,228,Honorina Camarinho,moveis,3,7865,>=7,2.0,masculino solteiro,sim,3,4.0,53,alugada,2.0,altamente qualificado/empresario,1,1,1,0
+Honorina Villaverde,PE,F,229,Honorina Villaverde,moveis,1,1478,>=7,4.0,masculino solteiro,sim,3,2.0,22,alugada,1.0,altamente qualificado/empresario,4,1,0,0
+Honório Mafra,RR,M,230,Honório Mafra,moveis,3,3149,>=7,1.0,masculino solteiro,sim,3,1.0,22,propria,2.0,altamente qualificado/empresario,4,1,0,0
+Horácio Pires,MG,M,231,Horácio Pires,moveis,1,4210,>=7,3.0,masculino solteiro,sim,3,2.0,26,alugada,1.0,altamente qualificado/empresario,4,1,0,0
+Hugo Covilhã,CE,M,232,Hugo Covilhã,moveis,4,2507,1<=X<4,2.0,maculino div/dep,sim,3,4.0,51,alugada,2.0,altamente qualificado/empresario,3,1,0,0
+Humberto Almeida,AC,M,235,Humberto Almeida,educacao,1,1544,>=7,4.0,maculino div/dep,sim,3,1.0,42,alugada,1.0,nao qualificado,3,2,0,0
+Humberto Lemes,BA,M,236,Humberto Lemes,moveis,1,1823,>=7,5.0,masculino solteiro,sim,3,2.0,30,de graca,1.0,altamente qualificado/empresario,1,2,0,0
+Humberto Morgado,SP,M,237,Humberto Morgado,moveis,4,14555,<1,5.0,feminino div/dep/cas,sim,3,2.0,23,alugada,1.0,altamente qualificado/empresario,2,1,1,0
+Humberto Vergueiro,MG,M,238,Humberto Vergueiro,moveis,6,2767,Desempregado,2.0,masculino solteiro,co requerente,3,2.0,61,propria,3.0,desempregado,3,1,0,0
+Ibijara Botelho,RR,F,239,Ibijara Botelho,educacao,1,1291,>=7,3.0,masculino solteiro,co aplicante,3,2.0,35,alugada,1.0,desempregado,4,1,0,0
+Ifigénia Lustosa,PE,F,240,Ifigénia Lustosa,moveis,1,2522,>=7,2.0,feminino div/dep/cas,sim,4,3.0,39,alugada,1.0,altamente qualificado/empresario,4,2,0,0
+Ifigénia Pires,PA,F,241,Ifigénia Pires,moveis,4,915,<1,2.0,masculino solteiro,co aplicante,3,2.0,29,propria,1.0,altamente qualificado/empresario,4,1,0,0
+Ilduara Chávez,MT,F,242,Ilduara Chávez,moveis,1,1595,>=7,4.0,masculino cas/viu,sim,3,2.0,51,alugada,1.0,altamente qualificado/empresario,4,2,0,0
+Inês Neres,CE,F,243,Inês Neres,veiculo usado,5,4605,>=7,2.0,masculino cas/viu,sim,3,4.0,24,alugada,2.0,desempregado,4,2,0,0
+Ingrit Mayor,SC,M,244,Ingrit Mayor,educacao,6,1185,>=7,3.0,masculino cas/viu,co aplicante,3,2.0,27,alugada,1.0,desempregado,4,1,0,0
+Iolanda Rabello,PB,F,245,Iolanda Rabello,abrir negocio,10,3447,1<=X<4,3.0,masculino solteiro,co aplicante,3,3.0,35,alugada,1.0,altamente qualificado/empresario,3,2,0,0
+Iracema Rodríguez,BA,F,246,Iracema Rodríguez,moveis,6,1258,>=7,4.0,masculino solteiro,sim,3,1.0,25,alugada,1.0,altamente qualificado/empresario,4,1,1,0
+Iraci Alcoforado,MS,F,247,Iraci Alcoforado,educacao,1,717,>=7,2.0,masculino solteiro,sim,3,4.0,52,alugada,1.0,nao qualificado,4,1,0,0
+Irani Jaguariúna,AM,F,248,Irani Jaguariúna,veiculo usado,4,1204,Desempregado,3.0,masculino solteiro,sim,3,1.0,35,propria,3.0,altamente qualificado/empresario,4,1,0,1
+Irene Meireles,MS,F,249,Irene Meireles,moveis,3,1925,>=7,3.0,maculino div/dep,sim,3,2.0,26,alugada,1.0,altamente qualificado/empresario,4,1,0,0
+Irene Villanueva,AC,F,250,Irene Villanueva,moveis,1,433,>=7,5.0,masculino cas/viu,co aplicante,2,4.0,22,alugada,3.0,altamente qualificado/empresario,4,1,0,0
+Isabel Meirelles,RO,F,251,Isabel Meirelles,educacao,4,666,4<=X<7,4.0,masculino cas/viu,co aplicante,3,4.0,39,alugada,1.0,desempregado,3,1,1,0
+Israel Canela,RN,M,252,Israel Canela,moveis,3,2251,>=7,3.0,feminino div/dep/cas,co aplicante,3,2.0,46,alugada,1.0,altamente qualificado/empresario,3,1,0,0
+Iuri Guterres,GO,M,253,Iuri Guterres,moveis,4,2150,>=7,3.0,masculino solteiro,co aplicante,4,2.0,24,propria,1.0,altamente qualificado/empresario,4,1,0,0
+Jacinto Dorneles,MG,M,254,Jacinto Dorneles,veiculo novo,3,4151,Desempregado,3.0,maculino div/dep,sim,3,3.0,35,alugada,1.0,desempregado,4,1,0,0
+Jandaíra Albuquerque,SP,F,255,Jandaíra Albuquerque,moveis,3,2030,<1,4.0,maculino div/dep,sim,3,1.0,24,alugada,1.0,altamente qualificado/empresario,4,1,1,0
+Joana Ataí,GO,F,256,Joana Ataí,veiculo novo,1,7418,<1,3.0,feminino div/dep/cas,sim,3,1.0,27,alugada,1.0,altamente qualificado/empresario,3,1,0,0
+Joaquim Hurtado,AP,M,257,Joaquim Hurtado,educacao,1,2684,>=7,3.0,masculino solteiro,sim,3,2.0,35,alugada,1.0,desempregado,3,1,0,0
+Joaquim Mieiro,TO,M,258,Joaquim Mieiro,abrir negocio,1,2149,>=7,3.0,masculino solteiro,co requerente,3,1.0,29,alugada,2.0,altamente qualificado/empresario,4,1,0,0
+Joaquina Vasconcelos,SC,F,259,Joaquina Vasconcelos,moveis,5,3812,Desempregado,1.0,feminino div/dep/cas,co aplicante,3,4.0,23,alugada,1.0,altamente qualificado/empresario,4,1,1,0
